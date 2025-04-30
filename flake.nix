@@ -29,6 +29,7 @@
             (pkgs.python3.withPackages (
               python-pkgs: with python-pkgs; [
                 pip
+                pandas
                 jupyter
                 jupytext
                 numpy
