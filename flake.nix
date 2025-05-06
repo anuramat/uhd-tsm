@@ -38,6 +38,7 @@
                 matplotlib
                 tqdm
                 pytest
+                statsmodels
                 pytorch
               ]
             ))
